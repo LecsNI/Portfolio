@@ -1,0 +1,13 @@
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/font';
+
+* {
+	font-family: 'Popins', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1101px;
+}
